@@ -5,6 +5,9 @@ TASK: checker
 */
 /**
  * Practiced on 1/7/2013
+ * 
+ * Check the link below for an incredible bit operation-based solution
+ * http://www.nocow.cn/index.php/USACO/checker
  */
 package com.congli.usaco;
 
