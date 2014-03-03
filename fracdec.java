@@ -53,7 +53,7 @@ public class fracdec {
 		// output 76 characters each line
 		for (int i = 0; i < result.length(); ++i) {
 			out.print(result.charAt(i));
-			if (i != 0 && (i+1) % 76 == 0) {
+			if ((i+1) % 76 == 0) {
 				out.println();
 			}
 		}
